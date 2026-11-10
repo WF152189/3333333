@@ -1,0 +1,11 @@
+# Build outputs
+**/target/
+**/dist/
+
+# Dependencies and caches
+**/node_modules/
+**/.angular/
+
+# OS files
+.DS_Store
+Thumbs.db

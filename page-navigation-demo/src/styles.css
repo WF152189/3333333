@@ -1,0 +1,3 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, "Microsoft YaHei", sans-serif; color: #182235; background: #f4f7fb; }
+button, .button { font: inherit; }
